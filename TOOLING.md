@@ -12,6 +12,12 @@ Developers use loving Javascript, and the newest features are all incredibly exc
 ![Arrow Function support](images/arrowfunctionsupport.png)
 ![Async Function support](images/supportasyncawait.png)
 
+As you can see here, while the support is ok, it's not close to 100%. Newer features will score even lower.
+
+---
+
+I am someone that loves using the newest in advancements, but I have a duty to make sure my excitement doesn't affect my users, who are the most important.
+
 
 This is where [Babel.js](https://babeljs.io/) comes into play. It allows you to use the latest features and simply compiles it to older versions of Javascript. We will use babel through browserify to get this working.
 
