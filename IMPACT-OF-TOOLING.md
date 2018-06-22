@@ -1,5 +1,13 @@
 # The impact of choosing a tech stack for your projects
 
+# Table of Contents
+- [Introduction](#introduction)
+- [The impact on the team](#the-impact-of-doing-this-for-the-team)
+- [The impact on the client](#the-impact-on-the-client)
+- [Conclusion](#conclusion)
+
+## Introduction
+
 For the final project of my minor Web Development, I was tasked with setting up a tooling system for me and my team. This is something I've always been interested in, so I went and jumped in. It came out pretty great!
 
 The tooling took care of these issues;

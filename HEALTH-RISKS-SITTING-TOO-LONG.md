@@ -1,5 +1,15 @@
 # The health risks of being a sitting Developer
 
+# Table of Contents
+- [The facts](#the-facts)
+- [The Health Risks](#the-health-risks)
+- [What do companies do?](#what-do-companies-do)
+- [Apple](#apple)
+- [Guerrila Games](#guerilla-games)
+- [Microsoft](#microsoft)
+- [In conclusion](#in-conclusion)
+- [Sources](#sources)
+
 ## The facts
 
 Being a Developer has many perks, its a great career and has lots of growth potential. However, we also sit a lot, which is very harmful if done excessively.
@@ -67,7 +77,7 @@ The biggest take away is that a lot of companies are paying attention to this no
 
 Stand up more often, go for a walk, do some stretches. Don't sit for too long.
 
-Sources:
+## Sources:
 [Average sitting](https://www.juststand.org/the-facts/)
 [Apple](https://www.businessinsider.nl/apple-employees-standing-desks-tim-cook-sitting-cancer-2018-6/?international=true&r=US)
 [Working Mother](https://www.workingmother.com/10-companies-with-health-and-wellness-zones#page-5)

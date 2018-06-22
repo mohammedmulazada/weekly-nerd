@@ -1,5 +1,15 @@
 # Analyzing the Schiphol Website on Accessibility
 
+# Table of Contents
+- [Introduction](#introduction)
+- [Skip to content](#skip-to-content)
+- [Color contrast](#color-contrast)
+- [Focus states](#focus-states)
+- [Easy help navigation](#easy-navigation-to-help)
+- [Conclusion](#conclusion)
+
+## Introduction
+
 On Wednesday march 28th we visited Schiphol to attend a lecture on accessibility given by Ischa Gast.
 
 Ischa isnt shy to talk about his love for accessibility and you can really tell he has a passion for what he does.
@@ -47,8 +57,10 @@ When hitting enter, the focus returns to the top menu element.
 
 ![Focus State](images/attention-accessible-schiphol.png)
 
-I love that the website shows the help banner right on the homepage at the bottom. It's not hidden away and they are proud to show it off.
+I find it very nice that the website shows the 'Do you need extra help' right there at the bottom of the homepage. It's very clear and inviting for the demographic to notice this and make use of it.
 
 ## Conclusion
 
 Ischa has done exactly what he preached. The Schiphol website looks lovely and it's very friendly to navigate through. I wonder how much of this was Ischa and how much of it was the designers. Did they work together, was Ischa heavily involded, did the design team come up with the colors themselves or did Ischa take the lead?
+
+The website looks beautiful and it's very welcoming to all people. It makes me curious as to what else Ischa thinks needs to be improved.
