@@ -4,7 +4,7 @@
 
 Developers use loving Javascript, and the newest features are all incredibly exciting. However, support for the latest features are not great obviously.
 
-![Fetch support](./images/fetchsupport.png)
+![Arrow Function support](images/arrowfunctionsupport.png)
 
 This is where [Babel.js](https://babeljs.io/) comes into play. It allows you to use the latest features and simply compiles it to older versions of Javascript. We will use babel through browserify to get this working.
 
