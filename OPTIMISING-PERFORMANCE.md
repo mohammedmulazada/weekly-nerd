@@ -6,6 +6,7 @@
 - [Loading content Asynchronously](#loading-content-asynchronously)
 - [Critical CSS](#critical-css)
 - [Loading Fonts Asynchronously](#loading-fonts-asynchronously)
+- [Conclusion](#conclusion)
 
 ## Introduction
 
